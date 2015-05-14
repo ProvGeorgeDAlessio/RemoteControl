@@ -1,0 +1,5 @@
+C:\Users\George\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Providence.Discovery\CameraControl\1.0\\CameraControl.dll
+C:\Users\George\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Providence.Discovery\CameraControl\1.0\\CameraControl.pkgdef
+C:\Users\George\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Providence.Discovery\CameraControl\1.0\\extension.vsixmanifest
+C:\Users\George\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Providence.Discovery\CameraControl\1.0\\CameraControl.pdb
+C:\Users\George\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Providence.Discovery\CameraControl\1.0\\ViscaLibrary.dll
